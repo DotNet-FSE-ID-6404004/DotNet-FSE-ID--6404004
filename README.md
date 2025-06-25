@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**DotNet-FSE-ID-404004/DotNet-FSE-ID-404004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DotNet-FSE-ID-6404004/DotNet-FSE-ID-404004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
