@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+have pushed my week 6 in master branch
 <!--
 **DotNet-FSE-ID-6404004/DotNet-FSE-ID-404004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
